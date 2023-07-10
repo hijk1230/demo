@@ -108,7 +108,8 @@ header li{
     flex-wrap: nowrap;
     margin:0 15%;
     margin-top: 64px;
-    width: calc((100% - 64 )/ 3)
+    width: calc((100% - 64 )/ 3);
+    overflow: hidden;
   }
 
 }
